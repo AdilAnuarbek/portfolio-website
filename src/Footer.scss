@@ -1,0 +1,18 @@
+footer {
+    margin-top: 10px;
+    background-color: #6b765e;
+    color: #141414;
+}
+
+.container-footer {
+    height: 50px;
+    border: none;
+    position: relative;
+}
+
+.fullname {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}

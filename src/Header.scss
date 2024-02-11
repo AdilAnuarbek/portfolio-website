@@ -1,0 +1,38 @@
+nav {
+    background-color: #896E7C;
+    color: #fefefe;
+}
+
+.container-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 30px;
+    height: 60px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.name-header {
+    flex-grow: 15;
+}
+
+.contacts {
+    flex-grow: 1;
+}
+
+.resume {
+    flex-grow: 1;
+}
+
+.container-header a:link {
+    color: #fefefe;
+    text-decoration: none;
+
+}
+
+.container-header a:visited {
+    color: #fefefe;
+    text-decoration: none;
+}
+
